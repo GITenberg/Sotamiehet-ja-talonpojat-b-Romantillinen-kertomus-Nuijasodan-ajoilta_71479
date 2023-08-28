@@ -1,0 +1,41 @@
+_repo: Sotamiehet-ja-talonpojat-b-Romantillinen-kertomus-Nuijasodan-ajoilta_71479
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hagman, Tyko
+    birthdate: 1849
+    deathdate: 1914
+    gutenberg_agent_id: '39050'
+    url: http://www.gutenberg.org/2009/agents/39050
+    wikipedia: https://fi.wikipedia.org/wiki/Tyko_Hagman
+creator:
+  author:
+    agent_name: Hertzberg, Rafaël
+    aliases:
+    - Hertzberg, Rafael
+    - Hertzberg, R. (Rafaël)
+    birthdate: 1845
+    deathdate: 1896
+    gutenberg_agent_id: '9351'
+    url: http://www.gutenberg.org/2009/agents/9351
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Rafael_Hertzberg
+    - https://sv.wikipedia.org/wiki/Rafael_Hertzberg
+    - https://fi.wikipedia.org/wiki/Rafael_Hertzberg
+description: ''
+gutenberg_issued: '2023-08-24'
+identifiers:
+  gutenberg: '71479'
+language: fi
+pgterms:marc905: 20220529083820hertzberg
+pgterms:marc906: '1890'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sotamiehet ja talonpojat : $b Romantillinen kertomus Nuijasodan ajoilta'
+url: http://www.gutenberg.org/ebooks/71479
