@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '39050'
     url: http://www.gutenberg.org/2009/agents/39050
     wikipedia: https://fi.wikipedia.org/wiki/Tyko_Hagman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hertzberg, Rafaël
@@ -23,6 +26,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Rafael_Hertzberg
     - https://fi.wikipedia.org/wiki/Rafael_Hertzberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71479#Sotamiehet-ja-talonpojat-b-Romantillinen-kertomus-Nuijasodan-ajoilta
 gutenberg_issued: '2023-08-24'
 identifiers:
   gutenberg: '71479'
